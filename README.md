@@ -1,3 +1,5 @@
-My Java/MySQL practice codes from the Informatics Practices course taught by Shelly Dahiya at JDKPS during the academic year 2013-14.
+My Java/MySQL practice codes from the GUI programming course I took during the academic year 2013-14 (high school).
 
-A good reference for learning Object Oriented Programming with Java is this MOOC by the University of Helsinki: https://java-programming.mooc.fi/
+The textbook:
+
+<img alt="sumita" src="https://gkorpal.github.io/images/sp.jpg" width="210" height="300" class="center">
