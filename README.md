@@ -1,4 +1,4 @@
-My Java/MySQL practice codes from the GUI programming course I took during the academic year 2013-14 (high school).
+My Java/MySQL practice codes from the GUI Programming course I took during the academic year 2013-14 (high school).
 
 The textbook:
 
