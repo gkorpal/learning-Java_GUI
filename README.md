@@ -3,3 +3,6 @@ My Java/MySQL practice codes from the GUI programming course I took during the a
 The textbook:
 
 <img alt="sumita" src="https://gkorpal.github.io/images/sp.jpg" width="210" height="300" class="center">
+
+
+One can also learn Object Oriented Programming with Java using NetBeans by following this MOOC by the University of Helsinki: https://java-programming.mooc.fi/
