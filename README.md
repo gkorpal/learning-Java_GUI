@@ -4,7 +4,8 @@ The textbooks:
 
 <p>
 <center>
-  <img alt="sumita1" src="https://gkorpal.github.io/images/spx1.jpg" width="210" height="300" class="center"> <img alt="sumita2" src="https://gkorpal.github.io/images/sp.jpg" width="210" height="300" class="center">
+  <a href="https://exmaple.com"> <img alt="sumita1" src="https://gkorpal.github.io/images/spx1.jpg" width="210" height="300" class="center"> </a>
+  <a href="https://example.com/"> <img alt="sumita2" src="https://gkorpal.github.io/images/sp.jpg" width="210" height="300" class="center"> </a>
 </center>
 </p>
 
