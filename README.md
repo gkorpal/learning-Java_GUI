@@ -9,4 +9,4 @@ The textbooks:
 </center>
 </p>
 
-One can also learn Object Oriented Programming with Java using NetBeans by following this MOOC by the University of Helsinki: https://java-programming.mooc.fi/
+**Better option:** Object Oriented Programming with Java using NetBeans MOOC by the University of Helsinki: https://java-programming.mooc.fi/
