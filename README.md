@@ -1,4 +1,4 @@
-My Java practice codes from the GUI Programming course (for MySQL) I took during the academic year 2013-14 (high school @ JDKPS).
+My [Java Swing](https://en.wikipedia.org/wiki/Swing_(Java)) practice codes from the GUI Programming course (for MySQL) I took during the academic year 2013-14 (high school @ JDKPS).
 
 The textbooks:
 
